@@ -1,7 +1,6 @@
 from tkinter import*
 import random
 
-# toplevel widget which represents the main window of an application
 root = Tk()
 root.title("Dice simulator")
 
